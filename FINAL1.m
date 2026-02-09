@@ -1,3 +1,4 @@
+%Ejercicio Tarea 1.2 A) 
 clear
 close all
 
